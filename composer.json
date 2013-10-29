@@ -1,0 +1,14 @@
+{
+    "name": "omnilight/smarty-plugins",
+    "description": "Plugins for smarty to use with Yii framework",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Pavel Agalecky",
+            "email": "pavel.agalecky@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii": "*"
+    }
+}
